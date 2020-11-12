@@ -5,7 +5,7 @@ include {
 
 
 terraform {
-  source = "git@github.com:ireteg/devops-realworld-example-backend.git//terraform/backend?ref=d29195477deac623ba54094760d71f81a7525ce0"
+  source = "git@github.com:ireteg/devops-realworld-example-backend.git//terraform/backend?ref=1bd39ffc3484be64635907a0ef19909f2b7e0ebe"
 }
 
 
