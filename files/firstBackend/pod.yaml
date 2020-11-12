@@ -8,7 +8,7 @@ metadata:
 spec:
   containers:
     - name: backend
-      image: "replace with the full name, example: eu.gcr.io/prepedu-mikael-tf-pr1/devops-realworld-example-backend:8aa9cfa01a052da66fe71b0f2ee49c928c39b6e7"
+      image: "eu.gcr.io/prefix-pontus-tf-prsuffix/devops-realworld-example-backend@sha256:0dae21e4ceb950f4ee2fc648568965d216e68af8d700c1c548ee517ef99c550e"
       resources:
         limits:
           cpu: "0.5"
